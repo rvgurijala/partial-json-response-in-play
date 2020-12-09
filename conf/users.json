@@ -1,0 +1,232 @@
+{
+  "data": [
+    {
+      "id": 10,
+      "name": "Anala Mahajan123",
+      "email": "anala_mahajan@jacobi.org",
+      "gender": "Male",
+      "status": "Active",
+      "addresses": [
+        {
+          "city": "Hyderabad",
+          "country": "India",
+          "pinCode": "5555555"
+        },
+        {
+          "city": "Pune",
+          "country": "India",
+          "pinCode": "6666666"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Jitendra Chattopadhyay VM",
+      "email": "vm_jitendra_chattopadhyay@waters.name",
+      "gender": "Female",
+      "status": "Inactive",
+      "addresses": [
+        {
+          "city": "Chennai",
+          "country": "India",
+          "pinCode": "77777777"
+        },
+        {
+          "city": "Banglore",
+          "country": "India",
+          "pinCode": "888888"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Rati Bhattacharya",
+      "email": "bhattacharya_rati@kulas-hand.info",
+      "gender": "Female",
+      "status": "Active",
+      "addresses": [
+        {
+          "city": "Pune",
+          "country": "India",
+          "pinCode": "692882"
+        },
+        {
+          "city": "Delhi",
+          "country": "India",
+          "pinCode": "8092"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Vrund Mahajan",
+      "email": "vrund_mahajan@bernier-borer.info",
+      "gender": "Male",
+      "status": "Active",
+      "addresses": [
+        {
+          "city": "Chennai",
+          "country": "India",
+          "pinCode": "64738803"
+        },
+        {
+          "city": "Mumbai",
+          "country": "India",
+          "pinCode": "8891881"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Anal Asan",
+      "email": "anal_asan@johnson.name",
+      "gender": "Male",
+      "status": "Active",
+      "addresses": [
+        {
+          "city": "Delhi",
+          "country": "India",
+          "pinCode": "1111111"
+        },
+        {
+          "city": "Mumbai",
+          "country": "India",
+          "pinCode": "55288292"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Bankim Saini DO",
+      "email": "do_bankim_saini@dooley.io",
+      "gender": "Female",
+      "status": "Active",
+      "addresses": [
+        {
+          "city": "Hyderabad",
+          "country": "India",
+          "pinCode": "9928828"
+        },
+        {
+          "city": "Mumbai",
+          "country": "India",
+          "pinCode": "6282892"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Mrs. Veda Butt",
+      "email": "veda_butt_mrs@reynolds.com",
+      "gender": "Female",
+      "status": "Inactive",
+      "addresses": [
+        {
+          "city": "Hyderabad",
+          "country": "India",
+          "pinCode": "9928828"
+        },
+        {
+          "city": "Mumbai",
+          "country": "India",
+          "pinCode": "6282892"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Chandranath Pothuvaal",
+      "email": "chandranath_pothuvaal@quitzon.net",
+      "gender": "Female",
+      "status": "Active",
+      "addresses": [
+        {
+          "city": "Vizag",
+          "country": "India",
+          "pinCode": "626t282"
+        },
+        {
+          "city": "Mumbai",
+          "country": "India",
+          "pinCode": "712901"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Ananta Bharadwaj",
+      "email": "ananta_bharadwaj@hintz-bednar.com",
+      "gender": "Female",
+      "status": "Inactive",
+      "addresses": [
+        {
+          "city": "Kochi",
+          "country": "India",
+          "pinCode": "6939282"
+        },
+        {
+          "city": "Vizag",
+          "country": "India",
+          "pinCode": "829298"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Datta Joshi CPA",
+      "email": "cpa_datta_joshi@herman-keeling.biz",
+      "gender": "Female",
+      "status": "Active",
+      "addresses": [
+        {
+          "city": "Hyderabad",
+          "country": "India",
+          "pinCode": "8882929"
+        },
+        {
+          "city": "Pune",
+          "country": "India",
+          "pinCode": "8929002"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Lai Dutta",
+      "email": "dutta_lai@schiller.net",
+      "gender": "Male",
+      "status": "Inactive",
+      "addresses": [
+        {
+          "city": "Chennai",
+          "country": "India",
+          "pinCode": "525727"
+        },
+        {
+          "city": "Delhi",
+          "country": "India",
+          "pinCode": "682929091"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Ms. Deenabandhu Kocchar",
+      "email": "ms_kocchar_deenabandhu@cormier.io",
+      "gender": "Female",
+      "status": "Active",
+      "addresses": [
+        {
+          "city": "Pune",
+          "country": "India",
+          "pinCode": "8929209"
+        },
+        {
+          "city": "Mumbai",
+          "country": "India",
+          "pinCode": "58990120"
+        }
+      ]
+    }
+  ]
+}
