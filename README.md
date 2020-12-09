@@ -1,5 +1,5 @@
 ```bash
-http://localhost:9000?fields=id,name,addresses(city,pinCode)
+http://localhost:9000/users?fields=id,name,addresses(city,pinCode)
 ```
 Fields parameter syntax summary:
 
